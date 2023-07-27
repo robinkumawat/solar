@@ -1,0 +1,15 @@
+@media screen and (Min-width:320px ) and (max-width:570px)
+{
+    .sun{
+        left: 100em;
+        top: 50em;
+    }
+    .earth {
+        left: 90em;
+        top: 40em;
+    }
+    .container 
+    {
+        height: 121em;
+    }
+}
